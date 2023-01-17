@@ -7,8 +7,6 @@ line represents the size of the army*.
 
 *Napoleon entered Russia with an army of more than 650,000 men, the largest assembled in Europe up to that point. The survivors of the main invasion force numbered only 27,000*.
 
-## Due Friday, December 11 (one week before the end of classes)
-
 ## Overview
 
 In this project, you will have the opportunity to conduct your own small scale research study, using a research question and data set that you select. The project has four parts:
@@ -21,8 +19,7 @@ In this project, you will have the opportunity to conduct your own small scale r
 
 4. Write a **short** report, providing your question, details on your data set, the graph, and your interpretation of the answer to your question.
 
-The goal of this project is to give you practice formulating a reearch question, conduct the research required to answer it, and then present your results in a technical write-up.
-This may serve as useful preparation if you are planning on doing a thesis project or taking other research-focused classes in the future.
+The goal of this project is to give you practice formulating a reearch question, conduct the research required to answer it, and then present your results in a technical write-up. This may serve as useful preparation if you are planning on doing a thesis project or taking other research-focused classes in the future.
 
 ## Details
 
