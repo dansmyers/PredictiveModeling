@@ -79,10 +79,7 @@ size.
 
 ### Make a Graph
 
-Once you have your data, you'll probably want to put it into an Excel file and load it into RStudio. From there, you can make whatever kind of graph is appropriate to
-help answer your question.
-
-We've talked about some important graphs, but RStudio can do many more. There's a lot of documentation on the Internet and you can always search for more examples.
+Once you have your data, you'll probably want to put it into an Excel file, save it as a CSV document, and then load it into Pandas. From there, you can make whatever kind of graph is appropriate to help answer your question.
 
 Remember some key rules of good graphing:
 
@@ -97,11 +94,10 @@ Your report will have the following sections:
 
 - **Introduction (one paragraph)**: State your research question, why it's interesting, and then summarize your key finding in the last sentence
 
-- **Data (one or two paragraphs)**: Summarize the source and content of your data set. Who collected it and for what purpose? How many observations does it contain? Summarize
-the fields and their types.
+- **Data (one paragraph)**: Summarize the source and content of your data set. Who collected it and for what purpose? How many observations does it contain? Summarize the fields and their types.
 
-- **Results (two to four paragraphs)**: Present your graph and then discuss it. Describe what the graph shows and how you can interpret it to answer your question.
+- **Results (two paragraphs)**: Present your graph and then discuss it. Describe what the graph shows: What values are being displayed? What is their relationship? Which direction on the graph is "better", if that makes sense for your question? Then explain how the graph provides an answer to your question. What implications does this answer have?
 
-- **Conclusion (one to three sentences)**: Restate the key findings of your study.
+- **Conclusion (one paragraph)**: Restate the important details.
 
 - **Reference**: Give the link or citation for your data set. **This is the only reference you need to include**.
