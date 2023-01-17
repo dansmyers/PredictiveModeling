@@ -26,24 +26,26 @@ focus on getting into the rhythm of Scrumage and developing good working habits 
 
 ## Deliverables and Quiz
 
-Complete the project described in `Deliverables`. Remember that you may work freely with the members of your team and you may use any resources that you find helpful to
-complete the project.
+There are four major pieces to the first sprint:
 
-The quiz and reflective write-up will be done **online** on **Wednesday, February 8**, which will also be the release day for the next sprint's material. The quiz will be 
-**individual** (not team) but will be **open everything**: you can use the sprint resources, your notes, and online resources. Remember to abide by the Honor Code 
-and ask me if you have questions about what is an acceptable resource!
+- Complete two warm-up labs. The first will cover using the Python data science framework to perform data manipulations and visualization. The second is an introduction to predctive modeling using the *Titanic* data set.
 
-## Reading
+- Complete a couple of practice questions on calculating descriptive statistics and using Python to analyze a data set.
 
-Complete the **participation questions** for Chapter 5 of the ZyBook. You do not need to complete the challenge questions or any sections marked as optional.
+- Finally, complete a **short** research write-up on a question of your choosing. This project requires you to formulate a research question, find a relevant data set, analyze it, and then **make a graph** that answers the question.
+
+- Complete the **participation questions** for Chapters 2 and 3 in the ZyBook. You don't need to complete any of the "challenge questions".
+
+Remember that you may work freely with the members of your team and you may use any resources that you find helpful to complete the projects.
+
+The quiz and reflective write-up will be done **online** on **Wednesday, February 8**, which will also be the release day for the next sprint's material. The quiz will be  **individual** (not team) but will be **open everything**: you can use the sprint resources, your notes, and online resources. Remember to abide by the Honor Code  and ask me if you have questions about what is an acceptable resource!
 
 
 ## What You Need to Learn
 
 1. Different terms for describing data: qualitative, quantitative, continuous, discrete, categorical, ordinal, etc.
 
-2. The **mean** and **median** as measures of centrality of a data set. This will be review for all of you, but make sure that you can correctly calculate means and medians
-given a small input data set. Know about the **mode** of a categorical data set.
+2. The **mean** and **median** as measures of centrality of a data set. This will be review for all of you, but make sure that you can correctly calculate means and medians given a small input data set. Know about the **mode** of a categorical data set.
 
 3. The concept of **percentiles** of a quantitative data set. Be able to calculate the **quartiles** and **interquartile range** of an example data set.
 
@@ -59,8 +61,7 @@ given a small input data set. Know about the **mode** of a categorical data set.
 
 9. **Histograms** as visualizations of a quantitative data set. Again, know how to interpret them and create them in Python.
 
-I will not make you perform extensive calculations by hand (no one does that in real life), but you should be able to manually calculate means, medians, quartiles, the five 
-number summary, and variance for small data sets.
+I will not make you perform extensive calculations by hand (no one does that in real life), but you should be able to manually calculate means, medians, quartiles, the five number summary, and variance for small data sets.
 
 
 ## Resources
@@ -87,12 +88,11 @@ the basics:
 
 ## Recommended Schedule and Tips
 
-- **Week 1**: Complete Chapter 1 of the ZyBook and the first homework problem on statistical calculations. We will complete Lab 1 in class and you should use the document
-in the `Examples` directory to review any parts you find challenging.
+- **Week 1**: Complete Chapter 2 of the ZyBook and the first homework problem on statistical calculations. Complete Lab 1. Formulate research question and begin identifying a relevant data set.
 
-- **Week 2**: Complete Chapter 2 of the ZyBook. We will complete Labs 2 and 3 in class, after which you will be able to complete the remaining two homework problems.
+- **Week 2**: Complete Chapter 3 of the ZyBook, the second lab, and the second homework problem. Finish identifying a data set and perform the analysis to make a graph.
 
-- **Week 3 before the quiz**: Complete the last problem using Lab 3 as a reference if you didn't finish it during the second week. Finish any remaining ZyBook questions.
+- **Week 3 before the quiz**: Finish remaining ZyBook questions and the write-up of your short paper.
 
 - **Don't wait until the last minute**! You won't have time to finish everything if you don't start promptly.
 
