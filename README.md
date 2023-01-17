@@ -235,6 +235,10 @@ Please speak with me as soon as possible if you have concerns about your ability
 
 I will make every effort to adhere to the topics and schedule described in this syllabus. However, I reserve the right to make changes for the good of the course.
 
+## Credit Hour Statement
+
+This course is a four-credit-hour course that meets three hours per week. The value of four credit hours results, in part, from work expected of enrolled students both inside and outside the classroom.  Rollins faculty require that students average at least 2 ½ hours of outside work for every hour of scheduled class time.  In this course, the additional outside-of-class expectations are substantial time spent on self-directed learning, team colalboration, and completion of programming assignemnts.
+
 ## Official Syllabus Statements
 
 Links to the full list of syllabus policy statements are [available here](https://rpublic.rollins.edu/sites/ASCPS/SitePages/Syllabi%20Statements.aspx).
