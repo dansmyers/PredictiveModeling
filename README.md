@@ -17,7 +17,7 @@ dmyers@rollins.edu
 
 ## Textbook and Resources
 
-We will use a combination of an online ZyBook, my notes for you, and online resoures. The ZyBook contains built-in reading comprehension questions that you'll be required to complete as part of your assignments.
+We will use a combination of an online ZyBook, my notes for you, and online resoures. The ZyBook contains built-in reading comprehension questions that you'll be required to complete as part of your assignments. I will send information on how to access the ZyBook in the first week of class.
 
 We will use [Repl.it](https://www.replit.com/) for programming. I'll help you set up a workspace during the first class meeting.
 
