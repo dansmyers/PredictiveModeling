@@ -23,13 +23,9 @@ At the end of this lab, you'll submit **three Python programs and three PDF plot
 The three labs we're going to complete were originally designed by my wife Chelsea for her book,
 [*Project-Based R Companion to Introductory Statistics*](https://www.taylorfrancis.com/books/mono/10.1201/9780429292002/project-based-companion-introductory-statistics-chelsea-myers?context=ubx&refId=262ee6fc-50b7-4b79-a116-d508a2270467). She has &ndash; let's call it &ndash; a *fascination* with weird and morbid 19th Century data sets, which is one of her many excellent qualities.
 
-## Create a new workspace
+## Workspace
 
-From your repl.it homepage, create a new workspace. Choose the ``Python Data Science'' template (not regular Python). Name your new workspace `CMS120-Pandas`.
-
-## Get the Data
-
-The three CSV files are posted to Canvas. Download them all, then upload them to your workspace by dragging and dropping into the file browser or by using the "Upload" option.
+Complete these labs in the `Sprint 1` workspace posted to our Repl.it class workspace. The required data files have already been uploaded for you.
 
 
 ## The *Titanic* Dataset
