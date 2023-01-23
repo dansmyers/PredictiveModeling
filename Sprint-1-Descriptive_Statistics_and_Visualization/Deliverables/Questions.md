@@ -40,7 +40,7 @@ Answer a few more questions about the *Titanic* data set. You may want to do a l
 
 1.	Use the data dictionary file posted to Canvas to identify each variable in the dataset as categorical or quantitative. If the variable is categorical, further identify it as ordinal, nominal or an identifier variable.
 
-2.	Create a new variable called `Survived` that takes on the value `Did Not Survive` when `Survived == 0` and `Survived` when `Survived == 1`.
+2.	Create a new variable called `Survived_str` that takes on the value `Did Not Survive` when `Survived == 0` and `Survived` when `Survived == 1`.
 
 3.	Calculate the frequency and relative frequency of survival for *Titanic* passengers.
 
