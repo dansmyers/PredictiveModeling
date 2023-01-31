@@ -13,7 +13,7 @@ Our data set will be `Titanic.csv` file we worked with last time. We're going to
 This lab contains questions that you'll need to answer as you go. Create a Word document and put your answers to each question in it. When you finish, submit your document and the PDF outputs that you create during the lab to Canvas.
 
 ## Get the Data
-Reopen your `CMS120-Pandas` workspace from the last lab. It should already contain the `Titanic.csv` file.
+Reopen your workspace from the last lab. It should already contain the `Titanic.csv` file.
 
 Make a new file called `model.py` and put the following code inside it:
 
