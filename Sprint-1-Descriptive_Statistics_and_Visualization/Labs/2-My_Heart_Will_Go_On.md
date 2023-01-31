@@ -10,7 +10,7 @@ Our data set will be `Titanic.csv` file we worked with last time. We're going to
 
 ## Submission
 
-This lab contains questions that you'll need to answer as you go. Create a Word document and put your answers to each question in it. When you finish, submit your document and the PDF outputs that you create during the lab to Canvas.
+This lab contains questions that you'll need to answer as you go. Create a Word document and put your answers to each question in it. When you finish, include your document in your Sprint 1 workspace on Repl.it.
 
 ## Get the Data
 Reopen your workspace from the last lab. It should already contain the `Titanic.csv` file.
