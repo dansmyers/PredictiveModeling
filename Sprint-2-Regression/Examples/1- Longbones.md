@@ -1,6 +1,6 @@
 # The Long Bones Project (The Weirdest Example of All Time)
 
-<img src="https://flxt.tmsimg.com/assets/p7892180_b_v13_ad.jpg" width="50%" />
+<img src="https://flxt.tmsimg.com/assets/p7892180_b_v13_ad.jpg" width="25%" />
                                                                        
 *Definition of Gen Z: David Boreanaz has been a lead actor on a network TV show for your entire life*.
 
