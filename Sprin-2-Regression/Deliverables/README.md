@@ -45,9 +45,9 @@ regression model for carrying out this task. Your model should do the following:
 
 - Create two subsets, one for the observations from the city of Darwin (on the northern coast) and the other for Uluru (in the middle of the Outback). Do a little exploratory analysis and then construct a model for each location. Can you generate more accurate predictions for one location than for the other? If so, which features are most important for each location? FYI: I don't have a sure answer in mind for this question; it's just an interesting analysis. Try it out and see what you can discover!
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ULURU.jpg/1920px-ULURU.jpg" width="75%" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ULURU.jpg/1920px-ULURU.jpg" width="50%" />
 
-*Uluru or Ayers Rock. Picture from Wikimedia.*.
+*Uluru or Ayers Rock. One of the best rocks. Picture from Wikimedia.*.
 
 ## High vs. Low Mileage
 
