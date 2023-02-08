@@ -1,5 +1,9 @@
 # The Long Bones Project (The Weirdest Example of All Time)
 
+<img src="https://flxt.tmsimg.com/assets/p7892180_b_v13_ad.jpg" width="50%" />
+                                                                       
+*Definition of Gen Z: David Boreanaz has been a lead actor on a network TV show for your entire life*.
+
 
 Scatterplots, linear correlation and regression allow us to determine the straight-line relationship between two quantitative variables. Scatterplots visualize the relationship between the two variables and give us a general sense of how they vary in relation to one another. A regression line is a mathematical model that uses the value of one variable (called the independent or explanatory variable, interchangeably) to predict the value of the other variable (called the dependent or response variable, interchangeably). Correlation and R<sup>2</sup> measure the strength of the linear relationship modeled by the regression line. They allow us to determine if there is a strong, weak or no association between the independent and dependent variables.
 
