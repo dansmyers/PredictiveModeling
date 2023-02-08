@@ -5,9 +5,19 @@
 Complete the following four analyses. For each question,
 
 - Make a `.py` file in your Repl.it workspace. Put all of your code for the question in the file.
+- You can put answers to any interpretation questions right into the Python file using comments. You don't need to upload any Word, PDF, or text files.
 
-- You can put answers to any interpretation questions right into the Python file using comments.
+## Tips
 
+- Start early! Don't wait until the last minute!
+
+- Complete the Longbones and Weather labs first. They contain the relevant examples that you'll need for the assignment.
+
+- If you need to install `seaborn` or `statsmodels`, use `pip`. For example,
+
+```
+pip install seaborn
+```
 
 ## The Dream of Wearing Shorts Forever
 
