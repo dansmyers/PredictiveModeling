@@ -47,7 +47,7 @@ regression model for carrying out this task. Your model should do the following:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ULURU.jpg/1920px-ULURU.jpg" width="50%" />
 
-*Uluru or Ayers Rock. One of the best rocks. Picture from Wikimedia.*.
+*Uluru or Ayers Rock. Picture from Wikimedia.*.
 
 ## High vs. Low Mileage
 
