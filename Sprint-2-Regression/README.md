@@ -3,6 +3,8 @@
 
 <img src="https://imgs.xkcd.com/comics/fuck_grapefruit.png" width="50%" />
 
+*Pineapples the clear outlier.*
+
 ## Starts Thursday, 2/9
 ## Deliverables and quiz are due on Wednesday, 2/22
 
@@ -64,7 +66,11 @@ For classification,
 
 The example labs are your main resource for the programming techniques that you need for the assginment.
 
+[This article](https://towardsdatascience.com/linear-regression-derivation-d362ea3884c2) works through the math of deriving simple linear regression. [This video](https://www.youtube.com/watch?v=ewnc1cXJmGA) covers similar territory.
+
 [This video](https://www.youtube.com/watch?v=VwVg9jCtqaU) from Google gives a high-level overview of machine learning and supervised learning. It's good background before you dig into the logistic regression lab.
+
+The ZyBook reading does a good job of covering confusion matrix interpretation.
 
 For background information on data mining, beyond the ZyBook, I recommend [these notes and slides](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php) for the book
 *Introduction to Data Mining* by Tan et al.
