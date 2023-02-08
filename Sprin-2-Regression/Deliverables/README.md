@@ -26,7 +26,7 @@ pip install seaborn
 *View of Canberra*
 
 
-Let's return to the `weather` data set, which recorded meteorological observations from a weather station in Canberra.
+Let's return to the `weather` data set, which recorded meteorological observations from weather stations in Australia.
 
 Suppose we're interested in whether it will rain today using the features corresponding to the weather measurements at 9 AM. Write an R script that builds a logistic
 regression model for carrying out this task. Your model should do the following:
@@ -43,6 +43,11 @@ regression model for carrying out this task. Your model should do the following:
 
 - Compare your results to the naïve classification approach of just predicting "No" for every instance. Does your classifier perform better?
 
+- Create two subsets, one for the observations from the city of Darwin (on the northern coast) and the other for Uluru (in the middle of the Outback). Do a little exploratory analysis and then construct a model for each location. Can you generate more accurate predictions for one location than for the other? If so, which features are most important for each location? FYI: I don't have a sure answer in mind for this question; it just seems like an interesting question.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ULURU.jpg/1920px-ULURU.jpg" width="75%" />
+
+*Uluru or Ayers Rock. Picture from Wikimedia.*.
 
 ## High vs. Low Mileage
 
