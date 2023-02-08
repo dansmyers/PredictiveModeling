@@ -16,7 +16,7 @@ This unit will cover:
 
 - Revisiting the important concept of **regression**, with an emphasis on understanding the derivation of simple linear regression and the least squares approach.
 
-- The concept of **classification** (also called "supervised learning" or "predicitve modeling") and examples of useful classification models.
+- The concept of **classification** (also called "supervised learning") and examples of useful classification models.
 
 - Our first two predictive modeling techniques, **K-Nearest Neighbors** and **logistic regression**, and concepts related to implementing a supervised learning model.
 
