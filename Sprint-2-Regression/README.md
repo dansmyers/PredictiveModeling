@@ -1,5 +1,5 @@
 
-# Sprint 4 &ndash; Regression
+# Sprint 2 &ndash; Regression
 
 <img src="https://imgs.xkcd.com/comics/fuck_grapefruit.png" width="50%" />
 
