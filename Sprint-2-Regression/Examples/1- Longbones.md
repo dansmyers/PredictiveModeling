@@ -137,11 +137,12 @@ Both variables are quantitative, the scatterplot doesn’t show any strong non-l
 
 ### Deliverable 5: Calculate the correlation between long bone nitrogen composition and length of interment.
 
-The `cor` function is used to calculate the correlation between two variables. It doesn’t matter what order they are entered in the function. 
+`corr` calculates the correlation between all pairs of variables. You can then view the correlations for a particular variable of interest.
+Here, we want to see how each variable correlates with the `Time` field.
 
 ```
-> cor(Longbones.subset$Nitro,Longbones.subset$Time)
-[1] -0.6961346
+corr = df.corr()
+print(corr['Time'])
 ```
 
 The correlation between long bone nitrogen composition and length of interment is about -0.70, which indicates a moderately strong negative linear relationship.
