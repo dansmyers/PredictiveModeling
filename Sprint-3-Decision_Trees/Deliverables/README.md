@@ -44,35 +44,34 @@ The remaining 70 values are the frequency of occurrence of the 70 function words
 
 This project is not that difficult, but will require you to carry out all parts of the study from scratch. Previous examples that we've done in class may be helpful.
 
-1. Load the data set into R Studio.
+1. Load the data set into a Pandas dataframe.
 
-2. Use `subset` to separate the training and testing sets based on class label. The testing set, which is the disputed papers, has `Federalist$class == 3`.
+2. Separate the training and testing sets based on class label. The testing set, which is the disputed papers, has a `class` value of 3.
 
-3. Construct a decision tree model using `rpart` and visualize it. What does the model say about distinguishing between the two authors?
+3. Construct a decision tree model and visualize it, using the technique shown in the *Titanic* lab. What does the model say about distinguishing between the two authors?
 
 4. Use the model to classify the 12 test instances. What results do you obtain?
 
 Finally, write up the results of your analysis in a **short** report. Your report should have the following sections:
 
-- **Introduction** - summarize the problem (one or two paragraphs)
+- **Introduction** - summarize the problem (one paragraph)
 
 - **Methods** - summarize the data and the analysis technique that you are using
 
-- **Results** - show a plot of the resulting decision tree and describe your results on the test set
+- **Results** - show a visualization of the resulting decision tree and describe your results on the test set
 
 - **Conclusion** - restate the purpose of your study, your methods, and what you learned (one paragraph).
 
 - **Appendix** - include your code here
 
-Upload your short paper to Canvas. Your analysis should include all of the parts above and be written in a professional technical style. That means,
+Upload your short paper to the same workspace as your code. Your analysis should include all of the parts above and be written in a professional technical style. That means,
 
 - No obvious spelling or grammar errors.
 
 - Detached, impartial assessment of results. Avoid using superlative words or adverbs like "extremely".
 
 - Provide details. Don't just tell what you learned in general terms, describe the specifics of the model (what functions did you use, with what parameters, etc.) For 
-example, how many examples and features are in the data set? How many training examples for each author do we have? What splitting criterion was used to construct the decision tree? What complexity parameter values did you use? If you used a pruning strategy what was it? (Note that you may not need to prune anything). **Try to be as specific
-as possible and don't worry about providing too much detail**.
+example, how many examples and features are in the data set? How many training examples for each author do we have? What splitting criterion was used to construct the decision tree? What complexity parameter values did you use? If you used a pruning strategy what was it? (Note that you may not need to prune anything). **Try to be as specific as possible and don't worry about providing too much detail**.
 
 ## References
 
