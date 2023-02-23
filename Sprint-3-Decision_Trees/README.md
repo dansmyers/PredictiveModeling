@@ -1,5 +1,5 @@
-# Sprint 5 &ndash; Decision Trees
-<img src="https://imgs.xkcd.com/comics/trained_a_neural_net_2x.png" width="30%" />
+# Sprint 3 &ndash; Decision Trees
+<img src="https://imgs.xkcd.com/comics/map_age_guide_2x.png" width="100%" />
 
 ## Starts Thursday, 2/23
 ## Deliverables and quiz are due on Wednesday, 3/8
