@@ -1,3 +1,28 @@
+# Sandwiches
+
+```
+Food     Has Meat? Has Bread? Is Sandwich?
+----     --------- ---------- ------------
+BLT        Yes        Yes         Yes
+Sub        Yes        Yes         Yes
+Pop-Tart    No         No          No
+Burrito    Yes         No          No
+PB & J      No        Yes         Yes
+Gyro       Yes        Yes          No
+```
+
+The dataset above shows a collection of foods that might or might not be sandwiches. You're doing to use the dataset to experiment with some entropy calculations.
+
+First, calculate the entropy of the entire set, using `Is Sandwich?` as the class variable. You should get a result of 1.0.
+
+Second, consider the effect of splitting the set on the `Has Meat?` field.
+
+- Write down the items that will go into each set; that is, those with and without meat.
+- Calculate the entropy of each set.
+- Calculate the **information gain** from splitting on `Has Meat?`.
+
+Third, repeat the information gain calculation for the `Has Bread?` field. Which field is the better choice for a first-level split?
+
 # The Disputed Federalist Papers
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/71wcAwRBSCL.jpg" width="30%" />
