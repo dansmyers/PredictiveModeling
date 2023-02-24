@@ -11,7 +11,7 @@ PB & J      No        Yes         Yes
 Gyro       Yes        Yes          No
 ```
 
-The dataset above shows a collection of foods that might or might not be sandwiches. You're doing to use the dataset to experiment with some entropy calculations.
+The dataset above shows a collection of foods that might or might not be sandwiches. Let's use it to practice some entropy calculations.
 
 First, calculate the entropy of the entire set, using `Is Sandwich?` as the class variable. You should get a result of 1.0.
 
