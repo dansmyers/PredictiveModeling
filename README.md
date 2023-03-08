@@ -94,7 +94,7 @@ Some of you have already taken one or more Scrumage courses with me or Dr. Summe
 | -------------|---------------------------------|--------|--------|  
 | 1            | Descriptive statistics and visualization | 1/19     | 2/8    | 
 | 2            | Supervised and unsupervised learning  |  2/9    |  2/22     | 
-| 3            | Decision trees          |   2/23   |  3/9      | 
+| 3            | Decision trees          |   2/23   |  3/8      | 
 | 4            | Bayesian models  | 3/21   |  4/3  | 
 | 5            | ChatGPT and large language models  |   4/4  | 4/17   | 
 | 6            | ChatGPT and the future of everything  |   4/18  |  5/2  |
