@@ -43,7 +43,7 @@ Your paper should have an introduction, a conclusion, and a section for each of 
 
 Tips:
 
-- This article is an ``explainer'', not a ``formal academic essay'' - whatever that means. Write something that your mom would actually want to read.
+- This article is an "explainer", not a "formal academic essay" - whatever that means. Write something that your mom would actually want to read.
 
 - You're probably going to start by pasting the prompt into ChatGPT. That's fine and it will give you a starting point, but it's not going to give you the finished product.
 
