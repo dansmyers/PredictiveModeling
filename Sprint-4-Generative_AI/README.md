@@ -6,13 +6,16 @@
 
 ## Description
 
+<img src="https://pbs.twimg.com/media/FrVy9LVWcAEPLME?format=jpg&name=medium" width="50%" />
+
+*Lady Ada Lovelace programming by Ethan Mollick*
 
 
 ## Deliverables
 
 <img src="https://preview.redd.it/tlzm7apmvbna1.png?width=1568&format=png&auto=webp&v=enabled&s=d33f7e85158543900699450e8b5a2d1f125de775" width="50%" />
 
-*Edward Hopper's 'Bored Women Looking at Their Smartphones' by Reddit user u/uriba.*
+*Edward Hopper's 'Bored Women Looking at Their Smartphones' by Reddit user u/uriba*
 
 To start, sign up for an OpenAI account (which lets you access ChatGPT) and an account for one of the image generation services, which I'll discuss in more detail below. Our goal is to use those tools to complete the following projects. Here are some general guidelines.
 
