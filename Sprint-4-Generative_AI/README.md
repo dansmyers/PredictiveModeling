@@ -79,6 +79,10 @@ You must complete the first two deliverables before doing this one. Write a shor
 
 ## Reading
 
+<img src="https://preview.redd.it/dvuhb3hur4na1.png?width=640&crop=smart&auto=webp&v=enabled&s=f1b8e65efbdad0ca0285a7ba196d23cbf45b776e" width="50%" />
+
+*Delicate interior by Reddit user u/justmitya*
+
 The following articles will help you understand and work with generative AI.
 
 Ethan Mollick has produced a lot of practical articles on using AI in the classroom. Start with the following:
