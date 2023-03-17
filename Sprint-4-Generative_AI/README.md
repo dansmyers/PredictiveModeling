@@ -1,6 +1,8 @@
 # Sprint 4 - Playing with Generative AI and ChatGPT
 
+<img src="https://pbs.twimg.com/media/FrbBE0YWAAIxxa6?format=jpg&name=medium" width="50%" />
 
+*Nike x Van Gogh sneaker collab. Made by Ethan Mollick using Midjourney.*
 
 ## Description
 
