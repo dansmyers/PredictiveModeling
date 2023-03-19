@@ -23,9 +23,14 @@ To start, sign up for an OpenAI account (which lets you access ChatGPT) and an a
 
 - As you're completing each assignnment, keep a **working log**, describing what you did at each step, the AI's output, and your evaluation of that output. This doesn't have to be formal, just keep an open document and write notes into it as you go.
 
+### Write Anything
+
+Your first job is to use ChatGPT to help you draft a persuasive article on a topic of your choice. It can be about anything you want, but your goal is to persuade 
+
+
 ### Ethics Explainer
 
-This first assignment is a traditional essay-style article. You're going to write an ``explainer'' piece on ethics and AI. 
+The second assignment is a traditional essay-style article. You're going to write an "explainer" piece on ethics and AI. 
 
 You may remember learning about three basic ethical philosophies in a previous course:
 
@@ -33,17 +38,17 @@ You may remember learning about three basic ethical philosophies in a previous c
 
 - **Deontological ethics**, associated with Immanuel Kant, which is about articulating and following universal moral guidelines and emphasizes the inherent worth of all people.
 
-- **Consequentialist ethics**, associatd with John Stuart Mill's principle of utilitarianism, which judges acts by their outcomes, not intentions, and seeks the greatest good for the most people.
+- **Consequentialist ethics**, associated with John Stuart Mill's principle of utilitarianism, which judges acts by their outcomes, not intentions, and seeks the greatest good for the most people.
 
 Now consider the following prompt:
 
-> How would a follower of each of the three main ethical philosophies advocate for the ethical development and use of artificial intelligence in society? What arguments would each philosopher make?
+> How would a follower of each of these three ethical philosophies advocate for the ethical development and use of artificial intelligence in society? Give examples of the **specific arguments** that each philosopher might make.
 
-Your paper should have an introduction, a conclusion, and a section for each of the three philosophies. Within each section, you should give an overview of the philosophy, how it approaches the question of ethical behaviors, its strengths and weaknesses compared to the other philosophies, and a discussion of how that philosophy would evaluate artificial intelligence, including examples of the kind of arguments it would make.
+Your paper should have an introduction, a conclusion, and a section for each of the three philosophies. Within each section, you should give an overview of the philosophy, how it approaches the question of ethical behaviors, and a discussion of how that philosophy would evaluate artificial intelligence, including examples of the kind of arguments it would make.
 
 Tips:
 
-- This article is an "explainer", not a "formal academic essay" - whatever that means. Write something that your mom would actually want to read.
+- This article is an "explainer", not a "formal academic essay" - whatever that means. Don't be boring!
 
 - You're probably going to start by pasting the prompt into ChatGPT. That's fine and it will give you a starting point, but it's not going to give you the finished product.
 
@@ -52,6 +57,8 @@ Tips:
 - **Get specific**. ChatGPT does a good job giving high-level summaries of concepts, but your paper should get beyond summary and offer specific, detailed arguments. ChatGPT can help you craft those, but you have to push it.
 
 - **Use creative prompting** and collaborative editing. Read Ethan Mollick's articles, linked below, and apply his strategies.
+
+- **Remain skeptical**. Remember that AI models can easily generate made-up facts. Don't trust ChatGPT's output unless you know it's true or can verify it from another source!
 
 ### Illustration
 
