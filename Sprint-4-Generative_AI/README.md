@@ -23,14 +23,9 @@ To start, sign up for an OpenAI account (which lets you access ChatGPT) and an a
 
 - As you're completing each assignnment, keep a **working log**, describing what you did at each step, the AI's output, and your evaluation of that output. This doesn't have to be formal, just keep an open document and write notes into it as you go.
 
-### Write Anything
-
-Your first job is to use ChatGPT to help you draft a persuasive article on a topic of your choice. It can be about anything you want, but your goal is to persuade 
-
-
 ### Ethics Explainer
 
-The second assignment is a traditional essay-style article. You're going to write an "explainer" piece on ethics and AI. 
+The first assignment is a traditional essay-style article. You're going to write an "explainer" piece on ethics and AI. 
 
 You may remember learning about three basic ethical philosophies in a previous course:
 
