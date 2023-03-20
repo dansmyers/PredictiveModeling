@@ -24,6 +24,18 @@ Remember that your other classes may have different policies for AI use! Check w
 The most important rule of working with language models is that **you cannot trust them**. Although the GPT models are generally good at answering conceptual questions, they will easily "hallucinate" false information in response to your prompts. **You can't trust any output from GPT unless you know it's true from your own knowledge or can verify it from other non-AI sources".
 
 
+## Tools
+
+We're mostly going to use ChatGPT for text generation. The new GPT-4 model is out, and we'll use it if we can, but the older GPT-3.5 model is still suitable for our purposes.
+
+For image generation, I like Midjourney and Playground AI, discussed in more detail below.
+
+Other tools you may find helpful:
+
+- The Bing search AI, which is free but requires joining a waiting list to get access. It can search the Internet and uses a language model to summarize what it finds, which makes it a powerful research tool. It also includes links to the sites that it pulls information from. I'm not requiring you to use Bing, but I recommend putting yourself on the waitlist to get access to it.
+
+- [Phind](https://www.phind.com/), another AI search engine. It's nominally targeted at "developers" but can be another useful free research tool.
+
 ## Deliverables
 
 <img src="https://preview.redd.it/tlzm7apmvbna1.png?width=1568&format=png&auto=webp&v=enabled&s=d33f7e85158543900699450e8b5a2d1f125de775" width="50%" />
@@ -40,7 +52,7 @@ To start, sign up for an OpenAI account (which lets you access ChatGPT) and an a
 
 As we'll discuss in class, large language models like GPT have a very strong **concept model**. In particular, they're good at taking seemingly unrelated ideas and smashing them together in interesting ways.
 
-For your first assignment, take two seemingly unrelated ideas that you've learned about in two of your classes. You can pick what these are (and try multiple variations before you settle on a final one), but try to pick things that don't have a direct relationship.
+For your first assignment, take two seemingly unrelated ideas that you've learned about in two of your classes. You can pick what these are (and try multiple variations before you settle on a final one), but try to pick things that don't have an obvious relationship.
 
 - Use ChatGPT to generate ideas for an essay on a surprising relationship between your two topics. Play around with your prompt and run the query multiple times to generate several ideas.
 
@@ -48,9 +60,9 @@ For your first assignment, take two seemingly unrelated ideas that you've learne
 
 ### Autograding
 
-Next, create a rubric to assess the quality of your essay; I'll give you some tips on this in class.
+Once you have a draft, create a rubric to assess the quality of your essay; I'll give you some tips on this in class.
 
-Use your rubric and ask ChatGPT to assess the quality of your essay. Improve the document in response to its feedback until it suggests that your essayis meeting the goals of the rubric.
+Use your rubric and ask ChatGPT to assess the quality of your essay. Improve the document in response to its feedback until it reports that your essay is meeting the goals of the rubric.
 
 ### Ethics Explainer
 
@@ -86,7 +98,7 @@ Tips:
 
 ### Illustration
 
-Imagine that your articles are going to run in a general interest magazine. Use an AI tool to create image that can accompany it. You can decide on the form and theme of the image, but the goal is to produce something of good quality that could plausibly appear in a real publication.
+Imagine that your articles are going to run in a general interest magazine. Use an AI tool to create image that can accompany each one. You can decide on the form and theme of the image, but the goal is to produce something of good quality that could plausibly appear in a real publication.
 
 I recommend two different tools:
 
@@ -99,7 +111,7 @@ FYI: both sites have content filters that will reject inappropriate requests. Th
 
 ### Reflection
 
-You must complete the first two deliverables before doing this one. Write a short reflective paper (about 600-800 words) describing your experiences writing and creating with generative AI tools. You're free to write what you feel is best, but consider the following questions:
+You must complete the other deliverables before doing this one. Write a short reflective paper (about 400-600 words) describing your experiences writing and creating with generative AI tools. You're free to write what you feel is best, but consider the following questions:
 
 - What did you think about generative AI tools before you started this unit?
 - What was easy for you? What did you like about using these tools?
