@@ -21,10 +21,14 @@ The deliverables are intentionally open-ended. I'll be giving you some tips in c
 
 Remember that your other classes may have different policies for AI use! Check with your other professors before using any AI tool on their assignments and comply with their directions.
 
-The most important rule of working with language models is that **you cannot trust them**. Although the GPT models are generally good at answering conceptual questions, they will easily "hallucinate" false information in response to your prompts. **You can't trust any output from GPT unless you know it's true from your own knowledge or can verify it from other non-AI sources".
+The most important rule of working with language models is that **you cannot trust them**. Although the GPT models are generally good at answering conceptual questions, they will easily "hallucinate" false information in response to your prompts. **You can't trust any output from GPT unless you know it's true from your own knowledge or can verify it from other non-AI sources**.
 
 
 ## Tools
+
+<img src="https://preview.redd.it/h075t1e1r4oa1.png?width=640&crop=smart&auto=webp&v=enabled&s=15aa172e21a76cd0abe14d4cfef9f17c036a16f6" width="50%" />
+
+*Your favorite 90s rap group with their cats by Reddit user u/Drolevarg*
 
 We're mostly going to use ChatGPT for text generation. The new GPT-4 model is out, and we'll use it if we can, but the older GPT-3.5 model is still suitable for our purposes.
 
