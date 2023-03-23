@@ -56,31 +56,47 @@ The output for this one is useful:
 > 
 > I. Introduction
 > A. Definition of Bitcoin and sustainable urbanism
+> 
 > B. Explanation of the theme of community empowerment
+> 
 > C. Thesis statement highlighting the importance of community empowerment in both Bitcoin and sustainable urbanism
 > 
 > II. Body Paragraph 1: Bitcoin and Community Empowerment
 > A. Description of Bitcoin's decentralized nature and how it empowers individuals
+> 
 > B. Explanation of how Bitcoin can be used as a tool for financial inclusion and empowerment
+> 
 > C. Examples of Bitcoin being used for community empowerment, such as charity donations and micropayments
 >
 > III. Body Paragraph 2: Sustainable Urbanism and Community Empowerment
+>
 > A. Description of sustainable urbanism's emphasis on community involvement in planning and design
+> 
 > B. Explanation of how sustainable urbanism empowers individuals to shape their own communities
+> 
 > C. Examples of sustainable urbanism initiatives that have empowered communities, such as community gardens and participatory budgeting
 > 
 > IV. Body Paragraph 3: Bitcoin and Sustainable Urbanism Together for Community Empowerment
+> 
 > A. Explanation of how Bitcoin and sustainable urbanism can work together to empower communities
+> 
 > B. Discussion of the potential for Bitcoin to facilitate community participation in sustainable urbanism initiatives
+> 
 > C. Examples of Bitcoin and sustainable urbanism collaborations, such as using Bitcoin to crowdfund sustainable urbanism projects
 >
 > V. Body Paragraph 4: Challenges and Limitations of Community Empowerment in Bitcoin and Sustainable Urbanism
+> 
 > A. Discussion of the challenges of community empowerment in both Bitcoin and sustainable urbanism, such as lack of access to technology or resources
+> 
 > B. Analysis of how these challenges can be overcome through education and collaboration
+> 
 > C. Acknowledgment of the limitations of community empowerment in both Bitcoin and sustainable urbanism, such as systemic barriers and power imbalances
 > 
 > VI. Conclusion
+> 
 > A. Restatement of the importance of community empowerment in Bitcoin and sustainable urbanism
+> 
 > B. Call to action for individuals and communities to work towards empowering themselves and others
+> 
 > C. Final thoughts on the potential for Bitcoin and sustainable urbanism to create more equitable and sustainable communities.
 
