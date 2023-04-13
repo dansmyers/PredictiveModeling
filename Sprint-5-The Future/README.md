@@ -15,6 +15,10 @@ You may work with a partner to complete both of these assignments if you choose.
 
 ## Presentation
 
+<img src="https://preview.redd.it/g0atbrre3tsa1.png?width=640&crop=smart&auto=webp&v=enabled&s=6a6ab20f4e1da4e08f0986791c38bd3289b6af9e" width="50%" />
+
+*Influencers attending a funeral by Reddit user u/Surprise_Typical*
+
 The Foundations Summit is a chance to show what we've been working on during the semester. You're going to prepare a short presentation, using PowerPoint or a similar program, that you'll give to folks as they walk around the summit and visit your tables.
 
 The topifof your presentation will be the intersection of AI and liberal education. That's a pretty broad topic, so you can pick a theme that resonates with you. Some ideas might include:
@@ -39,6 +43,10 @@ You have freedom to make the presentation in the way you see fit, but here are s
 - Don't end with a slide that says "Questions?"; your last slide should be a summary of the important points of your talk.
 
 ## Writing
+
+<img src="https://preview.redd.it/1fx554tgxhta1.png?width=640&crop=smart&auto=webp&v=enabled&s=192de2d4f63507129814a150706a20abb86e674e" width="50%" />
+
+*Florida vacation from the early 2000s by Reddit user u/KudzuEye*
 
 On March 22, a group called the Future of Life Institute released an open letter signed by several prominent technologists and scientists that called for pausing the development of any AI models larger than the current GPT-4.
 
