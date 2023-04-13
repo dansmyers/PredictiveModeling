@@ -1,5 +1,7 @@
 # The Future with AI
 
+## Presentation due 4/27, Paper due 5/8
+
 <img src="https://preview.redd.it/lzc27bpxqapa1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=5f4bbfa5e26c3474e81e6c513aad03da6f359348" width="50%"/>
 
 *Snoop Dogg in classic TV series by Reddit user u/Larry-fine-wine*
