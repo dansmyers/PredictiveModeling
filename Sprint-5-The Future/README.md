@@ -1,5 +1,9 @@
 # The Future with AI
 
+<img src="https://preview.redd.it/lzc27bpxqapa1.jpg?width=640&crop=smart&auto=webp&v=enabled&s=5f4bbfa5e26c3474e81e6c513aad03da6f359348" width="50%"/>
+
+*Snoop Dogg in classic TV series by Reddit user u/Larry-fine-wine*
+
 ## Overview
 
 This is it, the final piece of our journey through the world of modeling and AI. You're going to complete two things:
